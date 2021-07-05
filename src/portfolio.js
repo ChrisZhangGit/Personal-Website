@@ -18,7 +18,7 @@ const greeting = {
 
 const socialMediaLinks = {
   gmail: "chris.zhang.cloud@gmail.com",
-  github: "https://github.com/KKKRRrisssSS",
+  github: "https://github.com/chriszhang-git",
   gitlab: "https://gitlab.com/ChrisZhangCloud",
   linkedin: "https://www.linkedin.com/in/chris-zhang1",
   // facebook: "https://www.facebook.com/saad.pasta7",
@@ -177,7 +177,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
-  githubUserName: "jason-den", // Change to your github username to view your profile in Contact Section.
+  githubUserName: "chriszhang-git", // Change to your github username to view your profile in Contact Section.
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to false
 }
 
@@ -231,7 +231,7 @@ const achievementSection = {
 
     {
       title: "Backend, API and Database",
-      subtitle: "NodeJS, ExpressJS, .net core, RESTful API, JSON, PostMan, MySQL, MongoDB",
+      subtitle: "NodeJS, ExpressJS, .NET core, RESTful API, JSON, PostMan, MySQL, MongoDB",
       //image: require("./assets/images/rocket.jpeg"),
       
         // { name: "", url: "" },
