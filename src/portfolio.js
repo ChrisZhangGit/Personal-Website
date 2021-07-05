@@ -240,7 +240,7 @@ const achievementSection = {
     },
     {
       title: "Build and Cloud Tools",
-      subtitle: "Git, Linux, Visual Studio Code, AWS EC2, AWS S3, AWS Route 53",
+      subtitle: "Git, Linux, Visual Studio Code, AWS EC2, AWS S3, AWS Route 53, Netlify",
     },
     {
       title: "Teamwork and others",
