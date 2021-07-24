@@ -11,7 +11,7 @@ const greeting = {
   subTitle: emoji(
     "A motivated and enthusiastic web developer with a passion for web development, seeking a career in the IT industry where previous experience and skills can be put to efficient use. I am constanly striving to learn new technologies and look at ways to exceed company goals and expectations.",
   ),
-  resumeLink: "https://drive.google.com/file/d/14D9LT0l1H6LImWzqlV2pVDHgcLA_VHAy/view?usp=sharing",
+  resumeLink: "https://drive.google.com/file/d/199nJc08m_pTBzVWm8eyhjtfUymVEvw2U/view?usp=sharing",
 }
 
 // Your Social Media Link
@@ -196,14 +196,14 @@ const bigProjects = {
       image: require("./assets/images/project-1.png"),
       link: "https://drive.google.com/file/d/1RFBc1MsBMRMD7Nt_zjK2S3I2bEjVCJVV/view?usp=sharing"
     },
-    {
-      title: "Personal Website",
-      subtitle: "",
-      description:
-        "built a personal website to show the resume by using the CSS, JavaScript, HTML with responsive design, and it has been deployed on the AWS",
-      image: require("./assets/images/project-2.png"),
-      link: "https://chriszhangwebsite.s3.ap-southeast-2.amazonaws.com/resume-website/index.html",
-    },
+    // {
+    //   title: "Personal Website",
+    //   subtitle: "",
+    //   description:
+    //     "built a personal website to show the resume by using the CSS, JavaScript, HTML with responsive design, and it has been deployed on the AWS",
+    //   image: require("./assets/images/project-2.png"),
+    //   link: "https://chriszhangwebsite.s3.ap-southeast-2.amazonaws.com/resume-website/index.html",
+    // },
   ],
 }
 
@@ -231,7 +231,7 @@ const achievementSection = {
 
     {
       title: "Backend, API and Database",
-      subtitle: "NodeJS, ExpressJS, .NET core, RESTful API, JSON, PostMan, MySQL, MongoDB",
+      subtitle: "NodeJS, ExpressJS, SpringBoot, RESTful API, JSON, PostMan, PostgreSQL, MongoDB",
       //image: require("./assets/images/rocket.jpeg"),
       
         // { name: "", url: "" },
@@ -240,7 +240,7 @@ const achievementSection = {
     },
     {
       title: "Build and Cloud Tools",
-      subtitle: "Git, Linux, Visual Studio Code, AWS EC2, AWS S3, AWS Route 53, Netlify",
+      subtitle: "Git, Linux, Visual Studio Code, AWS EC2, AWS S3, AWS Route 53, AWS Lambda",
     },
     {
       title: "Teamwork and others",
