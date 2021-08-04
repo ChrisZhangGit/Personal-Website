@@ -6,8 +6,8 @@ import emoji from "react-easy-emoji"
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  username: "Elian Zhang",
-  title: "Hello! I'm Elian",
+  username: "Chris Zhang",
+  title: "Hello! I'm Chris",
   subTitle: emoji(
     "A motivated and enthusiastic web developer with a passion for web development, seeking a career in the IT industry where previous experience and skills can be put to efficient use. I am constanly striving to learn new technologies and look at ways to exceed company goals and expectations.",
   ),
@@ -17,10 +17,10 @@ const greeting = {
 // Your Social Media Link
 
 const socialMediaLinks = {
-  gmail: "elian.zhang.cloud@gmail.com",
-  github: "https://github.com/ElianZhangGit",
+  gmail: "chris.zhang.cloud@gmail.com",
+  github: "https://github.com/ChrisZhangGit",
   gitlab: "https://gitlab.com/ChrisZhangCloud",
-  linkedin: "https://www.linkedin.com/in/elian-zhang1",
+  linkedin: "https://www.linkedin.com/in/chris-zhang1",
   // facebook: "https://www.facebook.com/saad.pasta7",
   // medium: "https://medium.com/@saadpasta",
   // stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta"
@@ -177,7 +177,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
-  githubUserName: "ElianZhangGit", // Change to your github username to view your profile in Contact Section.
+  githubUserName: "ChrisZhangGit", // Change to your github username to view your profile in Contact Section.
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to false
 }
 
@@ -253,7 +253,7 @@ const contactInfo = {
   title: emoji("Contact Me"),
   subtitle: "Discuss a project or just want to say hi? My Inbox is open for all.",
   // number: "+61-478099095",
-  email_address:"elian.zhang.cloud@gmail.com",
+  email_address:"chris.zhang.cloud@gmail.com",
 }
 
 export {
