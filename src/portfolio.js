@@ -11,7 +11,7 @@ const greeting = {
   subTitle: emoji(
     "A motivated and enthusiastic web developer with a passion for web development, seeking a career in the IT industry where previous experience and skills can be put to efficient use. I am constanly striving to learn new technologies and look at ways to exceed company goals and expectations.",
   ),
-  resumeLink: "https://drive.google.com/file/d/199nJc08m_pTBzVWm8eyhjtfUymVEvw2U/view?usp=sharing",
+  resumeLink: "https://drive.google.com/file/d/1XkQZ1dMhrhG5Nfn9SfZoJPAjKCzbSvA3/view?usp=sharing",
 }
 
 // Your Social Media Link
